@@ -1,0 +1,3 @@
+- insert:
+    - id: script-studio
+      name: '@local/dsh-script-studio'

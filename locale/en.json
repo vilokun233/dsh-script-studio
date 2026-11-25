@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Script studio",
+    "description": "Adds a “Script studio” entry where each of the four modes has its own form instead of one shared option bar. Original: a settings package (one-line story, lead, antagonist, world rule, romance, events, payoff, supporting cast), written in batches. Novel to script: how many chapters become how many episodes, plus an adaptation degree. Script rewrite: a market transposition — source and target market (China to overseas, China to China), target platform and transposition settings (names, setting, cultural references, dialogue, pace, episode count). Script polish: the pasted script is split at its “episode N” markers so you tick the episodes to change, then pick directions (dialogue, action lines, format, pace, emotion, hooks) and strength. Pressing “Start writing” opens a session and sends the instruction straight into it; come back and continue batch by batch.",
+    "detail": "docs/DETAIL.md"
+  }
+}
